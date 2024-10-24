@@ -41,6 +41,8 @@ import { fetchData } from '@/api/loadData';
 const API_URL = 'http://127.0.0.1:5000/api/data';
 
 ```
+Бекенд для тестов можно поднять на python отсюда https://github.com/makedevpro/npo_back
+
 - Светлая тема
 
 ![Image alt](https://github.com/makedevpro/npo_front/blob/main/src/assets/light.jpeg)
