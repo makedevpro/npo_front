@@ -43,11 +43,8 @@ const API_URL = 'http://127.0.0.1:5000/api/data';
 ```
 - Светлая тема
 
-![Image alt](https://github.com/makedevpro/npo_front/src/assets/light.jpeg)
+![Image alt](https://github.com/makedevpro/npo_front/blob/main/src/assets/light.jpeg)
 
 - Темная тема
 
-![Image alt](https://github.com/makedevpro/npo_front/src/assets/dark.jpeg)
-
-
-
+![Image alt](https://github.com/makedevpro/npo_front/blob/main/src/assets/dark.jpeg)
